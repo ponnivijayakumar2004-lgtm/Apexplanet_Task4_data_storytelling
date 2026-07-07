@@ -36,8 +36,5 @@ This project analyses a 2025 sales transactions dataset containing 1,000 orders 
 The business should focus on category-level and city-level performance rather than age-based targeting.
 
 ## Files Included
-- Dataset
-- Python cleaning and analysis notebook
-- Power BI dashboard
-- Dashboard screenshot
+- Hypothesis Test-Python file
 - Final presentation
